@@ -5,3 +5,6 @@
 
 Plain Text
 # learn_git2
+
+1. branch created
+2. check it
